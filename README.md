@@ -1,3 +1,4 @@
-## hello everyone , hehehe
+## Welcome to Git!
 
 - yo, ima jack
+- This is from devadrian
